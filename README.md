@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dionkapf
-- 👀 I’m interested in .NET Platform and MERN
-- 🌱 I’m currently learning React
+- 👀 I’m interested in everything Javascript including React and Node!
+- 🌱 I’m currently learning ExpressJS
 - 💞️ I’m looking to collaborate on React Projects!
 - 📫 Email me for any enquiries!
 
