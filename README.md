@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dionkapf
-- 👀 I’m interested in everything Javascript including React and Node!
-- 🌱 I’m currently learning ExpressJS and NextJS
-- 💞️ I’m looking to collaborate on React Projects!
+- 👀 I’m interested in web development!
+- 🌱 I’m currently learning Laravel!
+- 💞️ I am currently on a programming break to focus on academics!
 - 📫 Email me for any enquiries!
 
 <!---
